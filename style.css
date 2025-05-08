@@ -110,3 +110,20 @@ body {
     flex-direction: column;
   }
 }
+@media (max-width: 600px) {
+  .contact {
+    padding: 1rem;
+    margin: 1rem;
+    line-height: 1.4; /* Reset to normal spacing */
+    word-wrap: break-word; /* Ensure long text wraps */
+  }
+
+  .contact p {
+    font-size: 0.95rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .contact h2 {
+    font-size: 1.2rem;
+  }
+}
