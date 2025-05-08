@@ -4,7 +4,7 @@ const listings = [
       id: 1,
       title: "2BHK House in Cuddalore",
       price: "₹45 Lakhs",
-      image: "assert/house1.avif",
+      image: "assert/house_1.jpeg",
       description: "Spacious 2BHK with garden and parking in a calm neighborhood."
     },
     {
